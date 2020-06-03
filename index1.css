@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Tera&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background: url(https://images.unsplash.com/photo-1486523834155-1dabf4edaa64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1103&q=80)no-repeat;
+    position: relative;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    color: cornsilk;
+    position: absolute;
+    top: 4rem;
+    right: 25rem;
+}
+p{
+    color: rgb(245, 241, 225);
+    position: absolute;
+    top: 14rem;
+    right: 25rem;
+}
